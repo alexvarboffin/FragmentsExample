@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "718876317032",
+    "project_id": "firebase-fragmentexample"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718876317032:android:397df5a768ce5d74",
+        "android_client_info": {
+          "package_name": "com.psyberia.fragmentsexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOX6EtQ_BuKvI98McTDa48J2p4T-WRuRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-75030256-2"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
